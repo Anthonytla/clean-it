@@ -1,0 +1,3 @@
+[submodule "cit-analysis-dynamic"]
+	path = cit-analysis-dynamic
+	url = git@github.com:Clean-IT-GPE/cit-analysis-dynamic.git
