@@ -1,3 +1,30 @@
 [submodule "cit-analysis-dynamic"]
 	path = cit-analysis-dynamic
 	url = git@github.com:Clean-IT-GPE/cit-analysis-dynamic.git
+[submodule "cit-charts-helm"]
+	path = cit-charts-helm
+	url = git@github.com:Clean-IT-GPE/cit-charts-helm.git
+[submodule "cit-end-to-end-testing"]
+	path = cit-end-to-end-testing
+	url = git@github.com:Clean-IT-GPE/cit-end-to-end-testing.git
+[submodule "cit-analysis-linter"]
+	path = cit-analysis-linter
+	url = git@github.com:Clean-IT-GPE/cit-analysis-linter.git
+[submodule "cit-dpl-files"]
+	path = cit-dpl-files
+	url = git@github.com:Clean-IT-GPE/cit-dpl-files.git
+[submodule "cit-env-config"]
+	path = cit-env-config
+	url = git@github.com:Clean-IT-GPE/cit-env-config.git
+[submodule "cit-pipeline-jenkins"]
+	path = cit-pipeline-jenkins
+	url = git@github.com:Clean-IT-GPE/cit-pipeline-jenkins.git
+[submodule "cit-pipeline-kind"]
+	path = cit-pipeline-kind
+	url = git@github.com:Clean-IT-GPE/cit-pipeline-kind.git
+[submodule "cit-web-front"]
+	path = cit-web-front
+	url = git@github.com:Clean-IT-GPE/cit-web-front.git
+[submodule "cit-web-gateway"]
+	path = cit-web-gateway
+	url = git@github.com:Clean-IT-GPE/cit-web-gateway.git
